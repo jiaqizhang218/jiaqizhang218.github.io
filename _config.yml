@@ -11,7 +11,7 @@ title                    : "Jiaqi Zhang"
 title_separator          : "-"
 name                     : &name "Jiaqi Zhang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jiaqizhang218.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiaqizhang218/jiaqizhang218.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  Courses:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  Blog posts:
     output: true
     permalink: /:collection/:path/
 
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _Courses
   - scope:
       path: ""
-      type: teaching
+      type: Courses
     values:
       layout: single
       author_profile: true
@@ -236,10 +236,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _Blog posts
   - scope:
       path: ""
-      type: talks
+      type: Blog posts
     values:
       layout: talk
       author_profile: true
