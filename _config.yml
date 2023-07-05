@@ -191,10 +191,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _Research
   - scope:
       path: ""
-      type: posts
+      type: Research
     values:
       layout: single
       author_profile: true
@@ -202,13 +202,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
   # _Courses
   - scope:
       path: ""
@@ -219,29 +212,46 @@ defaults:
       share: true
       comments: true
   # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _Blog posts
+  # - scope:
+  #     path: ""
+  #     type: publications
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
+
+  # _pages
+  # - scope:
+  #     path: ""
+  #     type: pages
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #   _portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
+
+  #_Blog posts
   - scope:
       path: ""
       type: Blog posts
     values:
       layout: talk
+      author_profile: true
+      share: true
+  #_About
+  - scope:
+      path: ""
+      type: About
+    values:
+      layout: single
       author_profile: true
       share: true
 
