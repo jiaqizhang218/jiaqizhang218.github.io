@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Jiaqi Zhang"
 title_separator          : "-"
 name                     : &name "Jiaqi Zhang"
-description              : &description "personal description"
-url                      : "https://jiaqizhang218.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "I am an undergraduate in University of Electronic Science and Technology of China"
+url                      : https://jiaqizhang218.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jiaqizhang218/jiaqizhang218.github.io"
+repository               : "jiaqizhang218.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,13 +56,13 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+# twitter:
+#   username               : &twitter
+# facebook:
+#   username               :
+#   app_id                 :
+#   publisher              :
+# og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiaqi Zhang"
   avatar           : "profile.png"
-  bio              : "An undergraduate student in UESTC"
+  bio              : "Undergraduate, UESTC"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
@@ -175,16 +175,16 @@ kramdown:
 
 # Collections
 collections:
+  Research:
+    output: true
+    permalink: /:collection/:path/
   Courses:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   Blog posts:
+    output: true
+    permalink: /:collection/:path/
+  About:
     output: true
     permalink: /:collection/:path/
 
@@ -211,6 +211,23 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  #_Blog posts
+  - scope:
+      path: ""
+      type: Blog posts
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  #_About
+  - scope:
+      path: ""
+      type: About
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      
   # _publications
   # - scope:
   #     path: ""
@@ -237,23 +254,6 @@ defaults:
   #     author_profile: true
   #     share: true
   #     comment: true
-
-  #_Blog posts
-  - scope:
-      path: ""
-      type: Blog posts
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-  #_About
-  - scope:
-      path: ""
-      type: About
-    values:
-      layout: single
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
