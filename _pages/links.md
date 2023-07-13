@@ -10,4 +10,4 @@ author_profile: true
 
 Some of my Friends(random order):
 
-[Junhua Liu](http://www.junhualiu.ml/) from CUHKSZ, 
+[gery](https://gery.top) from buaa, 

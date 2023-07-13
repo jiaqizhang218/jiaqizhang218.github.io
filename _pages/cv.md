@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **B.S. in Electrical&Electronics Engineering, Tsinghua University**
+* **B.S. in Electrical&Electronics Engineering, UESTC**
 <br>2020.9-2024.6 (GPA 3.55/4.0)
 
 Research experience
@@ -28,12 +28,5 @@ Selected Honors
 ======
 * Excellent student Scholarship of UESTC, 2021
 
-Publications
-======
 
-  <ul>{% for post in site.publications %}
-
-    {% include archive-single-cv.html %}
-
-  {% endfor %}</ul>
 
