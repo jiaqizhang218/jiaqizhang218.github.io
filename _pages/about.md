@@ -8,17 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is Haoji Zhang's homepage on the web!
+This is Jiaqi Zhang's homepage on the web!
 
-I am an undergraduate in Weiyang College, Tsinghua University.
-I major in Mathematics and Physics.
-My research interests lie in Computer Vision and Machine Learning.
+I am an undergraduate in University of Electronic Science and Technology of China.
+
 
 News 
 ======
-2023.03: The paper "PREIM3D: 3D Consistent Precise Image Attribute Editing from a Single Image" was accepted by CVPR 2023. 
-
-Contact me
-======
-Email: haoji-zh20@mails.tsinghua.edu.cn
 

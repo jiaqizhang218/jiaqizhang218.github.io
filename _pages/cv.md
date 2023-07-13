@@ -11,25 +11,22 @@ redirect_from:
 
 Education
 ======
-* **B.S. in Mathematics and Physics, Tsinghua University**
-<br>2020.9-2024.6 (GPA 3.96/4.00)
+* **B.S. in Electrical&Electronics Engineering, Tsinghua University**
+<br>2020.9-2024.6 (GPA 3.55/4.0)
 
 Research experience
 ======
-* **Fall 2022: Internship in Computer Vision**
-<br>2022.09 - Present, advised by Prof. Gao Huang
-<br>Efficient Action Recognition Model
+* **2023: Internship in Computer Vision**
+<br>2023.06 - Present, advised by Prof. Fan Zhang
+<br>Multi scale Vision Transformer
 
-* **Fall 2021: Internship in Computer Vision**
-<br>2021.09 - 2022.09, advised by Prof. Jianmin Li
-<br>Deepfake Detection System
-<br>3D-aware Image Attribute Editing, the paper "PREIM3D: 3D Consistent Precise Image Attribute Editing from a Single Image" was accepted by CVPR2023
+* **2022: Internship in Intelligent Reflecting Surface**
+<br>2022.02 - 2022.12, advised by Prof. Lei Zhang
+<br>Combined with Key generation
   
 Selected Honors
 ======
-* First Level Scholarship of Tsinghua University, 2022
-* Honorable Mention in MCM/ICM, 2022
-* First Level Scholarship of Tsinghua University, 2021
+* Excellent student Scholarship of UESTC, 2021
 
 Publications
 ======
