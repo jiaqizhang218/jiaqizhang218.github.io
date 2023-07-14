@@ -20,7 +20,7 @@ Research experience
 <br>2023.06 - Present, advised by Prof. Fan Zhang
 <br>Multi scale Vision Transformer
 
-* **2022: Internship in Intelligent Reflecting Surface**
+* **2022: Internship in Intelligent Reflective Surface**
 <br>2022.02 - 2022.12, advised by Prof. Lei Zhang
 <br>Combined with Key generation
   
