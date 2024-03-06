@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* **B.S. in Electrical&Electronics Engineering, UESTC**
-<br>2020.9-2024.6 (GPA 3.55/4.0)
+* **B.Eng. in Electrical&Electronics Engineering, UESTC**
+<br>2020.9-2024.6
 
 Research experience
 ======
