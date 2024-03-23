@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiaqi Zhang"
-  avatar           : "images/original.jpeg"
+  avatar           : "original.jpeg"
   bio              : "Undergraduate, UESTC"
   location         : "Chengdu, China"
   employer         :
