@@ -60,7 +60,7 @@ yandex_site_verification :
 twitter:
   username               : #&twitter "@hodge013140"
 facebook:
-  username               : #"haojizh20"
+  username               : 
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiaqi Zhang"
-  avatar           : "jq.jpg"
+  avatar           : "1inch.jpg"
   bio              : "Undergraduate, UESTC"
   location         : "Chengdu, China"
   employer         :
