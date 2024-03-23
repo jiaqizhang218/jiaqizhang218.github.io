@@ -14,19 +14,19 @@ Education
 * **B.Eng. in Electrical&Electronics Engineering, UESTC**
 <br>2020.9-2024.6
 
+<!-- * **MSc in Signal Processing and Machine Learning, NTU**
+<br>2024.8-2025.6 -->
+
 Research experience
 ======
 * **2023: Internship in Computer Vision**
 <br>2023.06 - Present, advised by Prof. Fan Zhang
-<br>Multi scale Vision Transformer
+<br>DCEC and MViT
 
-* **2022: Internship in Intelligent Reflective Surface**
+<!-- * **2022: Internship in Intelligent Reflective Surface**
 <br>2022.02 - 2022.12, advised by Prof. Lei Zhang
-<br>Combined with Key generation
+<br>Combined with Key generation -->
   
 Selected Honors
 ======
-* Excellent student Scholarship of UESTC, 2021
-
-
-
+* Student Pacesetter Scholarship of UESTC, 2021&2022
