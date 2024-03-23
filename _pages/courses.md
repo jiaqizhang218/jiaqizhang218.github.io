@@ -18,9 +18,12 @@ I’m an enthusiastic learner and I will keep learning in a life-long way.
 ## Projects
 
 * Autonomous Line-Tracking Robot
-<!-- - Developed an autonomous robot using OpenMV for line-tracking and STM32 as the main controller. 
-- Implemented ultrasonic sensors for real-time obstacle detection and navigation adjustment. 
-- Integrated HC-12 module for remote data transmission and control capabilities. -->
+<!-- 
+** Developed an autonomous robot using OpenMV for line-tracking and STM32 as the main controller. 
+
+** Implemented ultrasonic sensors for real-time obstacle detection and navigation adjustment. 
+
+** Integrated HC-12 module for remote data transmission and control capabilities. -->
 
 
 ## Competition
