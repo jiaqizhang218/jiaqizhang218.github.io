@@ -10,9 +10,8 @@ redirect_from:
 
 This is Jiaqi Zhang's homepage on the web!
 
-I am an undergraduate in University of Electronic Science and Technology of China.
+I am an undergraduate in [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
 
 
-News 
-======
-
+<!-- News  -->
+<!-- ====== -->
