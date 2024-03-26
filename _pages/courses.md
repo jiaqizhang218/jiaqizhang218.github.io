@@ -14,10 +14,13 @@ I’m an enthusiastic learner and I will keep learning in a life-long way.
 
 ## Teaching Assistant
 
+* Microelectronic System, 2023-2024 Spring
+
+* Embedded Processor, 2023-2024 Spring
 
 ## Projects
 
-* Autonomous Line-Tracking Robot
+* Autonomous Line-Tracking Robot (Team Leader)
 
 
 

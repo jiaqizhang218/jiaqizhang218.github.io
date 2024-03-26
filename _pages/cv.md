@@ -21,7 +21,8 @@ Research experience
 ======
 * **2023: Internship in Computer Vision**
 <br>2023.06 - Present, advised by Prof. Fan Zhang
-<br>DCEC and MViT
+<br>Developed a Dynamic Graph CNN to accelerate the generation of image embeddings.
+<br>Deployed a Multi-scale Vision Transformer to classify image embeddings.
 
 <!-- * **2022: Internship in Intelligent Reflective Surface**
 <br>2022.02 - 2022.12, advised by Prof. Lei Zhang
